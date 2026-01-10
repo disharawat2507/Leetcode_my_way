@@ -20,4 +20,4 @@ def main(nums,k):
 
 nums =[2,1,1,1,3,4,3,2]
 k = 3
-print(main(nums,k))
+print(main(nums,k)) 
