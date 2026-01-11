@@ -17,4 +17,4 @@ def mainf(nums):
     return reversearray(len(nums)-1, nums,[])
 
 
-print(mainf([1,2,3]))
+print(mainf([1,2,3])) 
