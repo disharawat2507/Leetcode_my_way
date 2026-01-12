@@ -1,5 +1,5 @@
 # Leetcode 876 Middle of the Linked List
-# Approach : If head is not there, the is no middle node, so return. Take 2 pointers, slow and fast. Slow will take one step and fast will take 2 steps. so when the fast reaches the end, slow will be in the middle.
+# Approach : Used the concepts of linked list and 2 pointers. If head is not there, the is no middle node, so return. Take 2 pointers, slow and fast. Slow will take one step and fast will take 2 steps. so when the fast reaches the end, slow will be in the middle.
 # Time Complexity : O(n)  
 # Space Complexity : O(1)
 
