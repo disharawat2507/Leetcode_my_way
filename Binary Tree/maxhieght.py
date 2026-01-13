@@ -1,5 +1,5 @@
 # Leetcode 104
-# Approach : always check if the root is None or not. If None, return 0. keep on calling method with root.left and root.right and then return 1 + max(left, right). 1 is added because it counts for the main head node.
+# Approach : always check if the root is None or not. If None, return 0. keep on calling method with root.left and root.right and then return 1 + max(left, right).
 # Time Complexity : O(n)
 # Space Complexity : O(h) , h is the height of the tree
 
