@@ -1,7 +1,7 @@
-Leetcode 124: Binary Tree Maximum Path Sum.
-Approach : here we are calculating left sum and right sum of all nodes including itself.And finding what is the maximum sum using maxlen varriable. Finally returning the maxlen.
-Time Complexity : O(n)
-Space Complexity : O(h) . H is the height of binary tree
+# Leetcode 124: Binary Tree Maximum Path Sum.
+# Approach : here we are calculating left sum and right sum of all nodes including itself.And finding what is the maximum sum using maxlen varriable. Finally returning the maxlen.
+# Time Complexity : O(n). n is the number of nodes
+# Space Complexity : O(h) . h is the height of binary tree
 
 
 class Solution :
