@@ -4,4 +4,3 @@ While Salesforce (Apex/SOQL) gave me a strong grasp of enterprise logic, I am no
 
 My Personal Approach: Code written the way I actually understood the logic.
 
-Complexity Analysis: Rigorous $O(n)$ Time and $O(h)$ Space complexity analysis for every solution.
