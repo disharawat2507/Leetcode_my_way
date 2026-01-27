@@ -1,4 +1,4 @@
-Welcome to my LeetCode repository! This project serves as a technical diary of my transition from Salesforce Development to Core Backend Engineering.
+Welcome to my DSA repository! This project serves as a technical diary of my transition from Salesforce Development to Core Backend Engineering.
 
 While Salesforce (Apex/SOQL) gave me a strong grasp of enterprise logic, I am now deep-diving into the fundamentals of computer science to build scalable, language-agnostic backend systems.
 
